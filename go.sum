@@ -1,7 +1,7 @@
 github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8 h1:wPbRQzjjwFc0ih8puEVAOFGELsn1zoIIYdxvML7mDxA=
 github.com/ProtonMail/go-crypto v0.0.0-20230217124315-7d5c6f04bbb8/go.mod h1:I0gYDMZ6Z5GRU7l58bNFSkPTFN6Yl12dsUlAZ8xy98g=
-github.com/adrienpessu/go-lib-example v0.0.0-20230906143150-114c639df776 h1:YArVa+OiFAduYXRLcmJoaDHsxLyVFubDOYWMKPWjwPs=
-github.com/adrienpessu/go-lib-example v0.0.0-20230906143150-114c639df776/go.mod h1:iFWGdw/kgTbhPbHISKUgX+wSmw3AaXubkeFdtGhYF2c=
+github.com/adrienpessu/go-lib-example v1.0.4 h1:w57Bt+xRN9tQcvJSyQKaM4VcCywPuzROwu8X2B5ML3g=
+github.com/adrienpessu/go-lib-example v1.0.4/go.mod h1:iFWGdw/kgTbhPbHISKUgX+wSmw3AaXubkeFdtGhYF2c=
 github.com/bwesterb/go-ristretto v1.2.0/go.mod h1:fUIoIZaG73pV5biE2Blr2xEzDoMj7NFEuV9ekS419A0=
 github.com/cloudflare/circl v1.1.0/go.mod h1:prBCrKB9DV4poKZY1l9zBXg2QJY7mvgRvtMxxK7fi4I=
 github.com/cloudflare/circl v1.3.7 h1:qlCDlTPz2n9fu58M0Nh1J/JzcFpfgkFHHX3O35r5vcU=
